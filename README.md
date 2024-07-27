@@ -1,1 +1,1 @@
-# Pokedex-task
+# React-tailwindTemplate
